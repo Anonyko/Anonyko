@@ -5,7 +5,7 @@ class Ny28():
     Discord = "@ny28"
     Youtube = "https://www.youtube.com/channel/UC7HIhCF2tZ4c037iJdq0WxA"
     PrivateAssistant = "https://chat.openai.com/"
-    Game = ["Minecraft","Mobile Legends: Bang Bang", "Valorant"]
+    Game = ["Minecraft","Mobile Legends: Bang Bang"]
     Status = "Single"
     Note = "im 100% mentally stable"
 ````
